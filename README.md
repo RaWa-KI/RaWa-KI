@@ -49,21 +49,25 @@ mit Programmieren als mit **Giana Sisters** und **Pizza Connection**.
 Mein einziger „Hack" aus der Zeit: rausfinden, wie das Passwort
 umgangen wird, wenn es Computerverbot gab. 😄
 
-Danach Atari, Amiga (mit einer 80-MB-Festplatte, die sich damals
-nach unendlich viel Platz anfühlte) und irgendwann der erste PC.
-Seit 2004 baue ich Webseiten, heute zusätzlich kleine Desktop-Tools.
+Danach Atari (VIP-User mit echter Tastatur), Amiga (mit einer 80-MB-Festplatte, die sich damals
+nach unendlich viel Platz anfühlte) und irgendwann der erste PC bis hin zur Nachricht, dass man 
+demnächst über eine Datenleitung anderen Menschen auf ihrem PC eine Nachricht senden kann. 
+Seit 2004 baue ich hier und da mal Webseiten, heute zusätzlich kleine Desktop-Tools.
 
 Ich bin kein Entwickler von Beruf – ich probiere einfach gern aus,
-was geht. Was von früher geblieben ist: die Überzeugung, dass
-Software einem gehören sollte. Deshalb laufen meine Tools **lokal
-auf dem eigenen Rechner** – Konfigurationen, Daten und Verläufe
+was geht. Und mein ADHS-Gehirn findet bei jeder App (ja, auch meinen eigenen) was zu meckern, 
+was unlogisch ist oder fehlt oder auch einfach buggy. 
+Was von früher geblieben ist: die Überzeugung, dass 
+Software einem gehören sollte, soweit das heutzutage noch möglich ist. 
+Deshalb laufen meine Tools **lokal auf dem eigenen Rechner** – Konfigurationen, Daten und Verläufe
 bleiben bei dir.
 
 Der ehrliche Teil dazu: Sobald ein KI-Agent ins Spiel kommt, geht
 die Anfrage natürlich an die API des jeweiligen Anbieters – das
 kostet Token und braucht Internet. Genauso kommen Updates aus dem
 Netz. Aber die Software selbst gehört dir, telefoniert nicht selbst
-nach Hause und funktioniert auch ohne Konto bei mir.
+nach Hause und funktioniert auch ohne Konto bei mir. Umso mehr freue ich mich, auf anderen Wegen 
+Feedback zu bekommen, da ich dich nicht auslesen und studieren kann ;-) 
 
 ## 🛠️ Projekte
 
