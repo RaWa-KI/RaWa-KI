@@ -45,7 +45,7 @@
 # Moin! 👋
 
 Angefangen hats mit einem C64 vor gut 38 Jahren – allerdings weniger
-mit Programmieren als mit **Giana Sisters** und **Pizza Connection**.
+mit Programmieren als mit **Giana Sisters** und **Pizza Connection** aud dem Amiga.
 Mein einziger „Hack" aus der Zeit: rausfinden, wie das Passwort
 umgangen wird, wenn es Computerverbot gab. 😄
 
